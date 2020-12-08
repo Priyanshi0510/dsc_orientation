@@ -1,0 +1,12 @@
+p{
+    font-weight: bold;
+    color: red;
+}
+h1{
+    color: blue;
+}
+/* css selectors */
+#pripar{
+    font-weight: green;
+    color: maroon;
+}
